@@ -1,11 +1,12 @@
+
 {
   "name": "cloud-task-manager",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-   "start": "node server.js",
-  "dev": "node server.js"
-},
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -16,3 +17,4 @@
     "mongoose": "^9.11.2"
   }
 }
+
